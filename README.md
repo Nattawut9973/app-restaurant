@@ -1,1 +1,1 @@
-# app-restaurant
+# nearby-restaurant
